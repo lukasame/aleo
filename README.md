@@ -16,7 +16,7 @@ A standard game of Tic-Tac-Toe in Leo.
 
 ## Representing Stateу
 Leo allows users to define composite data types with the `struct` keyworsdd. dfg
-The game board is represented by a struct called `Board`, which contains three `Row`s.we
+The game board is represented by a struct called `Board`, which contains three `Row`ssdf.we
 An alternative representation would be to use an array, however, these are not yet supportesdfd in Leo.qw
 
 ## Language Features
